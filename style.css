@@ -1,6 +1,9 @@
 :root {
-  --main-colour: #ff00cc
+  --main-colour: #ff00cc;
+  --roundness: 10;
 }
 button{
-  background-color: var(--main-colour)
+  background-color: var(--main-colour);
+  border: transparent solid 0px;
+  border-radius: var(--roundness)
 }
