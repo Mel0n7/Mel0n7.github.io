@@ -1,5 +1,5 @@
 :root {
-  --main-colour: #555 
+  --main-colour: #ff00cc
 }
 button{
   background-color: var(--main-colour)
